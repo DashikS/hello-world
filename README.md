@@ -1,2 +1,2 @@
 # hello-world
-studying
+It's a studying project.
